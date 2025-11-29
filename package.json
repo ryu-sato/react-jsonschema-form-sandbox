@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "@rjsf/core": "^6.1.2",
+    "@rjsf/react-bootstrap": "^6.1.2",
     "@rjsf/utils": "^6.1.2",
     "@rjsf/validator-ajv8": "^6.1.2",
+    "bootstrap": "^5.3.8",
     "next": "16.0.5",
     "react": "19.2.0",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "19.2.0"
   },
   "devDependencies": {
